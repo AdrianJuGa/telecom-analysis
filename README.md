@@ -8,7 +8,6 @@ ConnectaTel es una empresa de telecomunicaciones con operaciones en **México y 
 
 El análisis busca apoyar la **optimización de la oferta comercial**, la **mejora de la experiencia del usuario** y la **toma de decisiones basada en datos**.
 
----
 
 ## 🎯 Objetivo del proyecto
 
@@ -19,7 +18,6 @@ Construir una visión **clara, confiable y accionable** del comportamiento de us
 * Comportamientos atípicos (outliers)
 * Oportunidades comerciales y de mejora
 
----
 
 ## 💡 Preguntas de negocio
 
@@ -28,7 +26,6 @@ Construir una visión **clara, confiable y accionable** del comportamiento de us
 * ¿Cómo varía el uso según la edad y el tipo de plan contratado?
 * ¿Qué patrones pueden ayudar a diseñar mejores planes y mejorar la satisfacción del cliente?
 
----
 
 ## 🗂️ Fuentes de datos
 
