@@ -53,6 +53,17 @@ Estos datasets se complementan para analizar el comportamiento de los usuarios y
 * Jupyter Notebook
 
 ---
+🔄 Flujo general del proyecto
+
+Paso	Acción	Resultado para el negocio
+1. Cargar y explorar	
+3. Limpieza básica	
+4. Summary statistics	
+5. Visualización & outliers	
+6. Segmentación	
+7. Insight ejecutivo	
+8. Publicación
+---
 
 ## ▶️ Cómo ejecutar el proyecto
 
